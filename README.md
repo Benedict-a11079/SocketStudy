@@ -109,9 +109,13 @@ Output:
 
 
 CLIENT:
+
+
 <img width="707" height="202" alt="image" src="https://github.com/user-attachments/assets/73768137-a6b7-436f-ad2c-c8de0d7aaa07" />
 
+
 SERVER:
+
 <img width="720" height="225" alt="image" src="https://github.com/user-attachments/assets/b71e9244-602c-4809-aacf-8af2f3c2599a" />
 
 Result:
