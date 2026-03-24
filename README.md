@@ -106,6 +106,8 @@ conn.close()
 server_socket.close()
 ~~~
 OUTPUT:
+
+
 CLIENT:
 <img width="707" height="202" alt="image" src="https://github.com/user-attachments/assets/73768137-a6b7-436f-ad2c-c8de0d7aaa07" />
 
