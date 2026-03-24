@@ -105,7 +105,7 @@ print(f"Received from client: {data.decode()}")
 conn.close()
 server_socket.close()
 ~~~
-OUTPUT:
+Output:
 
 
 CLIENT:
@@ -114,5 +114,6 @@ CLIENT:
 SERVER:
 <img width="720" height="225" alt="image" src="https://github.com/user-attachments/assets/b71e9244-602c-4809-aacf-8af2f3c2599a" />
 
-RESULT:
+Result:
+
 Thus the study of Socket Programming Completed Successfully
